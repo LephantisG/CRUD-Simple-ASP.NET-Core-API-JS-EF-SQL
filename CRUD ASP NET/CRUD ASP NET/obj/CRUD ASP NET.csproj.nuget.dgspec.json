@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kameh\\Desktop\\Tareas\\Proyectos de Visual Studio\\CRUD Simple MVC JS EF SQL\\CRUD ASP NET\\CRUD ASP NET\\CRUD ASP NET.csproj": {}
+    "C:\\Users\\kameh\\Desktop\\Tareas\\Proyectos de Visual Studio\\CRUD ASP.NET JS SQL EF\\CRUD ASP NET\\CRUD ASP NET\\CRUD ASP NET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kameh\\Desktop\\Tareas\\Proyectos de Visual Studio\\CRUD Simple MVC JS EF SQL\\CRUD ASP NET\\CRUD ASP NET\\CRUD ASP NET.csproj": {
+    "C:\\Users\\kameh\\Desktop\\Tareas\\Proyectos de Visual Studio\\CRUD ASP.NET JS SQL EF\\CRUD ASP NET\\CRUD ASP NET\\CRUD ASP NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kameh\\Desktop\\Tareas\\Proyectos de Visual Studio\\CRUD Simple MVC JS EF SQL\\CRUD ASP NET\\CRUD ASP NET\\CRUD ASP NET.csproj",
+        "projectUniqueName": "C:\\Users\\kameh\\Desktop\\Tareas\\Proyectos de Visual Studio\\CRUD ASP.NET JS SQL EF\\CRUD ASP NET\\CRUD ASP NET\\CRUD ASP NET.csproj",
         "projectName": "CRUD ASP NET",
-        "projectPath": "C:\\Users\\kameh\\Desktop\\Tareas\\Proyectos de Visual Studio\\CRUD Simple MVC JS EF SQL\\CRUD ASP NET\\CRUD ASP NET\\CRUD ASP NET.csproj",
+        "projectPath": "C:\\Users\\kameh\\Desktop\\Tareas\\Proyectos de Visual Studio\\CRUD ASP.NET JS SQL EF\\CRUD ASP NET\\CRUD ASP NET\\CRUD ASP NET.csproj",
         "packagesPath": "C:\\Users\\kameh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kameh\\Desktop\\Tareas\\Proyectos de Visual Studio\\CRUD Simple MVC JS EF SQL\\CRUD ASP NET\\CRUD ASP NET\\obj\\",
+        "outputPath": "C:\\Users\\kameh\\Desktop\\Tareas\\Proyectos de Visual Studio\\CRUD ASP.NET JS SQL EF\\CRUD ASP NET\\CRUD ASP NET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -45,6 +45,22 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

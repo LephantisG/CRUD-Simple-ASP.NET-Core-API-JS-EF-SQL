@@ -1,0 +1,80 @@
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\CRUD ASP NET.exe
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\CRUD ASP NET.deps.json
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\CRUD ASP NET.runtimeconfig.json
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\CRUD ASP NET.runtimeconfig.dev.json
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\CRUD ASP NET.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\CRUD ASP NET.pdb
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\CRUD ASP NET.Views.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\CRUD ASP NET.Views.pdb
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.csproj.AssemblyReference.cache
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.AssemblyInfoInputs.cache
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.AssemblyInfo.cs
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.csproj.CoreCompileInputs.cache
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.RazorAssemblyInfo.cache
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.RazorAssemblyInfo.cs
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\staticwebassets\CRUD ASP NET.StaticWebAssets.Manifest.cache
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\staticwebassets\CRUD ASP NET.StaticWebAssets.xml
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\scopedcss\bundle\CRUD ASP NET.styles.css
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.TagHelpers.input.cache
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.TagHelpers.output.cache
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.RazorCoreGenerate.cache
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.RazorTargetAssemblyInfo.cache
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.RazorTargetAssemblyInfo.cs
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.Views.pdb
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.csproj.CopyComplete
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.dll
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.pdb
+C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.genruntimeconfig.cache
