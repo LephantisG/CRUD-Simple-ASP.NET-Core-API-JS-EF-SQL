@@ -7,7 +7,6 @@ C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\CRUD ASP NET.dll
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\CRUD ASP NET.pdb
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\CRUD ASP NET.Views.dll
-C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\CRUD ASP NET.Views.pdb
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
@@ -56,24 +55,10 @@ C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.AssemblyInfo.cs
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.csproj.CoreCompileInputs.cache
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.RazorAssemblyInfo.cache
-C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.RazorAssemblyInfo.cs
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\staticwebassets\CRUD ASP NET.StaticWebAssets.Manifest.cache
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\staticwebassets\CRUD ASP NET.StaticWebAssets.xml
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\scopedcss\bundle\CRUD ASP NET.styles.css
-C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.TagHelpers.input.cache
-C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.TagHelpers.output.cache
-C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.RazorCoreGenerate.cache
-C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.RazorTargetAssemblyInfo.cache
-C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.RazorTargetAssemblyInfo.cs
-C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.Views.pdb
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.csproj.CopyComplete
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.dll
 C:\Users\kameh\Desktop\Tareas\Proyectos de Visual Studio\CRUD ASP.NET JS SQL EF\CRUD ASP NET\CRUD ASP NET\obj\Debug\netcoreapp3.1\CRUD ASP NET.pdb
