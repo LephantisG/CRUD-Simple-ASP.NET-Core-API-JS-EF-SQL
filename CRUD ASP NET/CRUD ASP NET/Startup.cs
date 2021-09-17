@@ -24,6 +24,14 @@ namespace CRUD_ASP_NET
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddCors(options => 
+            {
+                options.AddPolicy("permitir",
+                    builder =>
+                    {
+                        builder.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin();
+                    });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -42,6 +50,7 @@ namespace CRUD_ASP_NET
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseCors("permitir");
 
             app.UseRouting();
 
@@ -49,6 +58,8 @@ namespace CRUD_ASP_NET
 
             app.UseEndpoints(endpoints =>
             {
+                /*endpoints.MapControllers()
+                     .RequireCors("permitir");*/
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");

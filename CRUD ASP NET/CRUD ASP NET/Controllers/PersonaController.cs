@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -9,6 +10,7 @@ namespace CRUD_ASP_NET.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    //[EnableCors("permitir")]
     public class PersonaController : ControllerBase
     {
         [HttpGet]
