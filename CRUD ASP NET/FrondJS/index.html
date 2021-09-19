@@ -9,6 +9,8 @@
     </title>
 </head>
 <body>
+    <h1>Personas</h1>
+    <div id="ListaPersonasDiv"></div>
     
 </body>
 </html>
@@ -17,7 +19,18 @@
     var url = "https://localhost:44335/api/persona"
     fetch(url).then(function(response){
         return response.json()
-    }).then(function(ElJson){
-        console.log(ElJson)
+    }).then(function(DataJson){
+        document.getElementById("ListaPersonasDiv").innerHTML = "";
+        for (let i = 0; i < DataJson.length; i++) {
+            let divElement = document.createElement("div");
+            let divSpan = document.createElement("span");
+            divSpan.innerHTML = DataJson[i].nombre + " - " + DataJson[i].puntos + " | ";
+            let botonBorrar = document.createElement("button");
+            let botonEditar = document.createElement("button");
+            divSpan.appendChild(botonBorrar);
+            divSpan.appendChild(botonEditar);
+            divElement.appendChild(divSpan);
+            document.getElementById("ListaPersonasDiv").appendChild(divElement);
+        }
     })
 </script>

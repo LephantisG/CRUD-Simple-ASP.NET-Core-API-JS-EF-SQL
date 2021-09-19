@@ -15,7 +15,7 @@ namespace CRUD_ASP_NET
     {
         public Startup(IConfiguration configuration)
         {
-            Configuration = configuration;
+            Configuration = configuration; 
         }
 
         public IConfiguration Configuration { get; }
@@ -58,8 +58,8 @@ namespace CRUD_ASP_NET
 
             app.UseEndpoints(endpoints =>
             {
-                /*endpoints.MapControllers()
-                     .RequireCors("permitir");*/
+                endpoints.MapControllers()
+                     .RequireCors("permitir");
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");

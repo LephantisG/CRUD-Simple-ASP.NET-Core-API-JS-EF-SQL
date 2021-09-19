@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.Extensions.Configuration;
 
 #nullable disable
 
@@ -22,7 +23,7 @@ namespace CRUD_ASP_NET.Models
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             string connectionStringCasa = "Server=LEPHANTIS\\SERVERGABRIEL;Database=CrudExamen;Trusted_Connection=True;";
-            //string connectionStringLaptop = "Server=DESKTOP-4CF079O\\SQLEXPRESS;Database=CrudExamen;Trusted_Connection=True;";
+            //string connectionStringLaptop = @"Server=DESKTOP-4CF079O\SQLEXPRESS;Database=CrudExamen;Trusted_Connection=True;";
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder.UseSqlServer(connectionStringCasa);
